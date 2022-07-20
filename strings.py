@@ -48,7 +48,7 @@ print(s.startswith('hello'))
 # Ends with
 print(s.endswith('d'))
 
-# Split into a list
+# Split into a list can take a delimiter as an arg to know what to split by
 print(s.split())
 
 # Find position
@@ -62,3 +62,6 @@ print(s.isalpha())
 
 # Is all numeric
 print(s.isnumeric())
+
+# .strip() strips all white space from string 
+print(s.strip())

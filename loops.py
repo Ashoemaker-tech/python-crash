@@ -22,7 +22,7 @@ for person in people:
 for i in range(len(people)):
     print(people[i])
     
-for i in range(0, 11): # 0 - 10
+for i in range(0, 11): # 0 - 10 can take 3 args (start, stop, step)
     print(f'Number: {i}')
 # while loops execute a set of statements as long as a condition is true
 
@@ -31,3 +31,8 @@ while count <= 10:
     print(f'Count:{count}')
     count += 1
 
+# loop = True
+# while loop:
+#     name = input('Input something: ')
+#     if name == 'stop':
+#         break

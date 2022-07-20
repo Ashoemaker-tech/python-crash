@@ -23,8 +23,21 @@ x, y, name, is_cool = (1, 2.5, 'Andrew', True)
 # Basic Math
 a = x + y
 
+# exponents
+# x = 2**2
+
+# integer division
+x = 64 // 10 
+
+
+# Modulous operator gives the remainder of divsion of numbers
+a = 5 % 2 
+
+# 
+
+
 # print(type(x)) prints type of variable
 
 
 
-print(x, y, name, is_cool)
+# print(x, y, name, is_cool)

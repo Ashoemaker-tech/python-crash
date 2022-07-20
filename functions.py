@@ -15,5 +15,8 @@ def getSum(num1, num2):
 
 getSum = lambda num1, num2 : num1 + num2
 
-print(getSum(10,3))
+# print(getSum(10,3))
+
+#  *args and **kwargs
+
 

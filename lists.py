@@ -38,3 +38,13 @@ fruits.sort()
 fruits.sort(reverse=True)
 
 print(fruits)
+
+# iterate through list
+for fruit in fruits:
+    print(fruit)
+
+text = 'Hello I like python'
+# Slice operator slice(start:stop:step)
+print(text[0:]) # if left empty then it will stop at the end fo str
+print(numbers[1:])
+numbers.slice[1:1]
